@@ -28,9 +28,9 @@ var models = [
     },
     {
         url: './assets/ultimo.glb',
-        scale: '0.3 0.3 0.3',
+        scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
-        info: 'Sombrero de palma, artesania comun en el estado',
+        info: 'Sombrero de gamuza, artesania comun en el estado',
     },
    
 ];
