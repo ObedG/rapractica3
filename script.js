@@ -27,7 +27,7 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: './assets/magnemite/scene.gltf',
+        url: './assets/ultimo.glb',
         scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
         info: 'Sombrero de gamuza, artesania comun en el estado',
