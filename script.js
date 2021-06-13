@@ -21,7 +21,7 @@ function staticLoadPlaces() {
 
 var models = [
     {
-        url: './assets/ultimo.glb',
+        url: './assets/casisom.glb',
         scale: '0.5 0.5 0.5',
         info: 'Quesillo, Queso representativo del estado',
         rotation: '0 180 0',
