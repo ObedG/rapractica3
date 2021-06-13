@@ -21,13 +21,13 @@ function staticLoadPlaces() {
 
 var models = [
     {
-        url: './assets/quesillox.glb',
+        url: './assets/ultimo.glb',
         scale: '0.5 0.5 0.5',
         info: 'Quesillo, Queso representativo del estado',
         rotation: '0 180 0',
     },
     {
-        url: './assets/ultimo.glb',
+        url: './assets/articuno/scene.gltf',
         scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
         info: 'Sombrero de gamuza, artesania comun en el estado',
