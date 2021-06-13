@@ -12,8 +12,8 @@ function staticLoadPlaces() {
             name: 'Pokèmon',
             
             location: {
-                lat: 17.2649160,
-                lng: -97.6779120,
+                lat: 17.932780,
+                lng: -97.961021,
            },
         },
     ];
@@ -27,7 +27,7 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: './assets/ultimo.glb',
+        url: './assets/magnemite/scene.gltf',
         scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
         info: 'Sombrero de gamuza, artesania comun en el estado',
