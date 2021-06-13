@@ -32,7 +32,7 @@ var models = [
     },
     {
         url: './assets/ultimo.glb',
-        scale: '0.2 0.2 0.2',
+        scale: '0.3 0.3 0.3',
         rotation: '0 180 0',
         info: 'Sombrero de palma, artesania comun en el estado',
     },
