@@ -15,29 +15,28 @@ function staticLoadPlaces() {
                  lat: 17.932809,
                  lng: -97.961024,
             },
+            location: {
+                lat: 17.264873,
+                lng: -97.677964,
+           },
         },
     ];
 }
 
 var models = [
     {
-        url: './assets/magnemite/scene.gltf',
+        url: './assets/quesillox.glb',
         scale: '0.5 0.5 0.5',
-        info: 'Magnemite, Lv. 5, HP 10/10',
+        info: 'Quesillo, Queso representativo del estado',
         rotation: '0 180 0',
     },
     {
-        url: './assets/articuno/scene.gltf',
+        url: './assets/ultimo.glb',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
-        info: 'Articuno, Lv. 80, HP 100/100',
+        info: 'Sombrero de palma, artesania comun en el estado',
     },
-    {
-        url: './assets/dragonite/scene.gltf',
-        scale: '0.08 0.08 0.08',
-        rotation: '0 180 0',
-        info: 'Dragonite, Lv. 99, HP 150/150',
-    },
+   
 ];
 
 var modelIndex = 0;
