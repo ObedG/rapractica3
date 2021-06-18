@@ -32,7 +32,12 @@ var models = [
         rotation: '0 180 0',
         info: 'Sombrero de gamuza, artesania comun en el estado',
     },
-   
+    {
+        url: './assets/magnemite/scene.gltf',
+        scale: '0.5 0.5 0.5',
+        rotation: '0 180 0',
+        info: 'Pos un Pokemon we',
+    },
 ];
 
 var modelIndex = 0;
