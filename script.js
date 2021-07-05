@@ -30,7 +30,7 @@ var models = [
         url: './assets/casisom.glb',
         scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
-        info: 'Sombrero de gamuza, conocido como Charro 24, un sombrero de fieltro rojo y grueso con ala profunda y con una copa muy alta de pan de azucar, llegaron al itsmo hace muchos años y no se encuentran en ninguna parte de Mexico ',
+        info: 'Sombrero conocido como Charro 24, llegaron al itsmo hace muchos años y no se encuentran en ninguna parte de Mexico ',
     },
     {
         url: 'prueba2.glb',
