@@ -34,9 +34,9 @@ var models = [
     },
     {
         url: 'prueba2.glb',
-        scale: '0.5 0.5 0.5',
+        scale: '0.1 0.1 0.1',
         rotation: '0 180 0',
-        info: 'Cesta tejida de mimbre, artesnia multiusos',
+        info: 'Cesta tejida de mimbre, artesnia multiusos0',
     },
 ];
 
