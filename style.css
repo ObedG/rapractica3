@@ -15,11 +15,11 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid #9966cc;
+    border: 2px solid #553592;
     
     width: 4em;
     height: 2em;
-    border-radius: 100%;
+    border-radius: 70%;
     font-size: 2em;
     background-color: #9966cc;
     color: white;
@@ -29,7 +29,7 @@ button {
 .instructions {
     position: fixed;
     top: 5%;
-    text-aling:center;
+    text-aling:justify;
     font-weight: bold;
     font-size: 1.50em;
     color: #ffbf00;
