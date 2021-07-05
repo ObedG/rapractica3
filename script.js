@@ -36,13 +36,13 @@ var models = [
         url: 'prueba2.glb',
         scale: '0.1 0.1 0.1',
         rotation: '0 180 0',
-        info: 'Cesta tejida de mimbre, artesania multiusos',
+        info: 'Cesta tejida de mimbre, artesania multiusos puede usarse como decoracion o para almacenar y transportar diversos objetos',
     },
     {
         url: 'panglb.glb',
-        scale: '0.4 0.4 0.4',
+        scale: '0.9 0.9 0.9',
         rotation: '0 180 0',
-        info: 'Semita',
+        info: 'Cemita Tlaxiaqueña, sin duda, el pan mas emblematico y representativo de nuestra region',
     },
 ];
 
