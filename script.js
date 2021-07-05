@@ -38,6 +38,12 @@ var models = [
         rotation: '0 180 0',
         info: 'Cesta tejida de mimbre, artesania multiusos',
     },
+    {
+        url: 'panglb.glb',
+        scale: '0.4 0.4 0.4',
+        rotation: '0 180 0',
+        info: 'Semita',
+    },
 ];
 
 var modelIndex = 0;
