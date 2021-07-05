@@ -1,6 +1,6 @@
 window.onload = () => {
     const button = document.querySelector('button[data-action="change"]');
-    button.innerText = '﹖';
+    button.innerText = 'Siguiente modelo';
 
     let places = staticLoadPlaces();
     renderPlaces(places);
@@ -33,10 +33,10 @@ var models = [
         info: 'Sombrero de gamuza, artesania comun en el estado',
     },
     {
-        url: './assets/magnemite/scene.gltf',
+        url: 'prueba2.glb',
         scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
-        info: 'Pos un Pokemon we',
+        info: 'Cesta tejida de mimbre, artesnia multiusos',
     },
 ];
 
