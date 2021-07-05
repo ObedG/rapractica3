@@ -1,9 +1,6 @@
 window.onload = () => {
-    var imagen = new Image(); 
-    imagen.onload = imagenCargada; 
-    
     const button = document.querySelector('button[data-action="change"]');
-    button.imagen.src = "trotar.png";
+    button.innerText = '﹖';
 
     let places = staticLoadPlaces();
     renderPlaces(places);
