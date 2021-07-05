@@ -1,6 +1,6 @@
 window.onload = () => {
     const button = document.querySelector('button[data-action="change"]');
-    button.innerText = 'Siguiente modelo';
+    button.innerText = '->';
 
     let places = staticLoadPlaces();
     renderPlaces(places);
@@ -36,7 +36,7 @@ var models = [
         url: 'prueba2.glb',
         scale: '0.1 0.1 0.1',
         rotation: '0 180 0',
-        info: 'Cesta tejida de mimbre, artesnia multiusos0',
+        info: 'Cesta tejida de mimbre, artesania multiusos',
     },
 ];
 
