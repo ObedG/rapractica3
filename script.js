@@ -41,7 +41,7 @@ var models = [
     {
         url: 'cemitagood.glb',
         scale: '0.9 0.9 0.9',
-        rotation: '0 180 0',
+        rotation: '180 180 50',
         info: 'Cemita Tlaxiaqueña, sin duda, el pan mas emblematico y representativo de nuestra region',
     },
 ];
